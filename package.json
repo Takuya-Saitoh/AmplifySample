@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@aws-amplify/cli": "^7.6.15",
-    "@aws-amplify/ui-react": "^1.2.25",
+    "@aws-amplify/ui-react": "^2.2.2",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
